@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "78378832483",
+    "firebase_url": "https://movieinformation-f8e19.firebaseio.com",
+    "project_id": "movieinformation-f8e19",
+    "storage_bucket": "movieinformation-f8e19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78378832483:android:7ab412f419c91caa",
+        "android_client_info": {
+          "package_name": "com.bonggu.www.movieinformation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78378832483-74nh00pehqevtve2ru5k2nkm3qkdv7lv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bonggu.www.movieinformation",
+            "certificate_hash": "5762314eec94cf613f3e92d16647cf69d995a5e1"
+          }
+        },
+        {
+          "client_id": "78378832483-cqod7atulrqmifb0009bb2gke5ru7iip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBi4IiTHq4t3LAAsSP8oDQ5vr6EY6SFtE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78378832483-cqod7atulrqmifb0009bb2gke5ru7iip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

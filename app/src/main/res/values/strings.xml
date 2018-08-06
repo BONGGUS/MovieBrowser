@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">movieinformation</string>
+    <string name="app_name">영화검색기</string>
+    <string name="adID">ca-app-pub-1782143464087714/8764497566</string>
 </resources>
